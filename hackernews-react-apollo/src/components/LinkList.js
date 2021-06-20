@@ -24,3 +24,5 @@ const LinkList = () => {
         </div>
     );
 };
+
+export default LinkList;
