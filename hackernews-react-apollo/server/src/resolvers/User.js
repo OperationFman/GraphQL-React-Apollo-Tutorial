@@ -7,3 +7,4 @@ function links(parent, args, context) {
 module.exports = {
   links
 };
+
